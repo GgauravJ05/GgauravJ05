@@ -13,17 +13,32 @@
 
 
 <div align="center">
-  <h3 style="font-weight: bold;">Full-Stack (MERN) Developer | AI & Machine Learning Enthusiast</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Developer GIF">
+  <h3 style="font-weight: bold;">
+    AI & Machine Learning Enthusiast | MERN Developer
+  </h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+       width="700"
+       alt="Developer GIF">
 </div>
 
-## 🧑‍💻 About Me  
-2nd-year **B.Tech (Information Technology)** student with a passion for building scalable software solutions.  
-Currently serving as **President of the IT Tech Club at MMCOE** and **IEEE Day 2025 Ambassador**.  
+---
 
-Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** with strong interests in **AI/ML** and **Full-Stack Development**.  
+## 🚀 Hi, I'm Gaurav  
+I’m a 2nd-year **B.Tech (Information Technology)** student passionate about building intelligent, efficient, and scalable software systems.  
+
+My core focus lies in **Artificial Intelligence & Machine Learning**, along with developing modern web applications using the **MERN stack**.
+
+I enjoy exploring new ideas, solving complex problems through code, and constantly leveling up as an engineer.
 
 ---
+
+<!-- ## 🔍 What I Do  
+- Build **AI/ML-driven applications**  
+- Develop modern web apps using **MERN**  
+- Lead & manage **tech communities and teams**  
+- Work on **low-level & system projects** in C/C++  
+- Design clean UIs using **Figma & Tailwind**  -->
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Tech Stack Section ------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -57,13 +72,13 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 > 📂 Find all of my projects at [GitHub Repositories](https://github.com/JGaurav26?tab=repositories) with timeline, tech stack and necessary links.
 
 &nbsp;
+| Project | Description | Repo | Tech |
+|--------|-------------|------|------|
+| **Next Gen Virtual File System** | Custom-built OS-style virtual file system | [view](https://github.com/JGaurav26/NextGen-Virtual-File-System) | C, C++ |
+| **File Zipper/Unzipper** | File compression utility | [view](https://github.com/JGAurav26/) | Java |
+| **ChyperPress** | Work-in-progress project | [view](https://github.com/JGaurav26/CHYPERPRESS) | — |
+| **EduBridge Virtual Classroom** | Smart classroom ecosystem | [view](https://github.com/JGaurav26/EduBridge) | MERN |
 
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| Next Gen Virtual File System | - | [view](https://github.com/JGaurav26/NextGen-Virtual-File-System) | `C` `C++` |
-| File Zipper Unzipper | - | [view](https://github.com/JGAurav26/) | `Java` | 
-| ChyperPress | - | [view](https://github.com/JGaurav26/CHYPERPRESS) | `Work in Progress` | 
-| EduBridge - Virtual Classroom Ecosystem | - | [view](https://github.com/JGaurav26/EduBridge) | ` Work in Progress ` |
 
 <br>
 
