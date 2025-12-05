@@ -121,6 +121,7 @@ I enjoy exploring new ideas, solving complex problems through code, and constant
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<!---
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
 > I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains. You can find all the social links down below.
@@ -156,12 +157,6 @@ I enjoy exploring new ideas, solving complex problems through code, and constant
        onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
-<!-- <a href="https://t.me/+pre0lPwccANlNWU1" target="_blank">
-  <img src="assets/icons/telegram.svg" alt="Telegram" width="40" height="40"
-       style="transition: transform 0.3s;" 
-       onmouseover="this.style.transform='scale(1.2)'" 
-       onmouseout="this.style.transform='scale(1)'"/>
-</a>&nbsp;&nbsp; -->
 
 <a href="https://www.instagram.com/gaurav.developer/" target="_blank">
   <img src="assets/icons/instagram.svg" alt="Instagram" width="40" height="40"
@@ -188,6 +183,7 @@ I enjoy exploring new ideas, solving complex problems through code, and constant
 
 </div>
 <hr>
+-->
 
 
 <p align="center">
