@@ -89,8 +89,9 @@ I enjoy exploring new ideas, solving complex problems through code, and constant
 | ![JGaurav26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JGaurav26&rank_icon=github&show_icons=true&show=reviews&bg_color=fff&title_color=0a1931&icon_color=000000&text_color=0A0209&border_color=0A0209&border_radius=8&width=400) | ![JGaurav26 GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JGaurav26&background=fff&border=0A0209&stroke=0A0209&ring=0a1931&fire=0a1931&currStreakNum=0A0209&sideNums=0A0209&currStreakLabel=0a1931&sideLabels=0a1931&dates=0A0209&border_radius=8&width=400) |
 | -- | -- |
 
+<!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGaurav26&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
+-->
 ---
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
