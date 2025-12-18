@@ -60,27 +60,6 @@ I enjoy exploring new ideas, solving complex problems through code, and constant
 
 <br>
 
----
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
-> 📂 Find all of my projects at [GitHub Repositories](https://github.com/JGaurav26?tab=repositories) with timeline, tech stack and necessary links.
-
-&nbsp;
-| Project | Description | Repo | Tech |
-|--------|-------------|------|------|
-| **Next Gen Virtual File System** | Custom-built OS-style virtual file system | [view](https://github.com/JGaurav26/NextGen-Virtual-File-System) | C, C++ |
-| **File Zipper/Unzipper** | File compression utility | [view](https://github.com/JGAurav26/) | Java |
-| **ChyperPress** | Work-in-progress project | [view](https://github.com/JGaurav26/CHYPERPRESS) | — |
-| **EduBridge Virtual Classroom** | Smart classroom ecosystem | [view](https://github.com/JGaurav26/EduBridge) | MERN |
-
-
-<br>
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
