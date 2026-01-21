@@ -50,7 +50,7 @@ I value clean code, practical learning, and continuous improvement.
 | -- | -- |
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GgauravJ05&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GgauravJ05&bg_color=ffffff&color=0A0209&line=0a1931&point=0a1931&area=true&hide_border=true&hide_title=true" />
 
 ---
 
