@@ -1,12 +1,3 @@
-<div align="center">
-  <h3 style="font-weight: bold;">
-    AI & Machine Learning Enthusiast | MERN Developer
-  </h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-       width="700"
-       alt="Developer GIF">
-</div>
-
 ## Hi, I'm Gaurav <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />
   
 I’m a 2nd-year **B.Tech (Information Technology)** student focused on building **data-driven and scalable software systems**.
