@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" 
+       width="500" 
+       alt="animated hello" 
+       style="border-radius:8px;"/>
+</p>
+<br><br>
+
 ## Hi, I'm Gaurav <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />
   
 I’m a 2nd-year **B.Tech (Information Technology)** student focused on building **data-driven and scalable software systems**.
