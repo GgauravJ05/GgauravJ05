@@ -19,8 +19,8 @@
 Third-year IT undergraduate focused on **applied AI/ML**, with a specific interest in **FinTech systems** — fraud detection, anomaly detection, and financial decision intelligence. Background spans full-stack engineering (MERN) to ML systems built end-to-end: feature engineering, ensemble modeling, and deployment-minded design.
 
 Currently:
-- 🔭 Sharpening ML fundamentals and research depth for graduate study abroad and FAANG/MAANG-level AI/ML roles
-- 🧠 Exploring the intersection of engineering and finance — long-term goal of building a finance-focused tech venture
+- 🔭 Sharpening ML fundamentals and research depth for graduate study and high-impact AI/ML research roles
+- 🧠 Exploring the intersection of engineering and finance
 - 🏆 1st place, MIT ADT AI Grand Challenge 2026 · Top 5%, IGNISIA '26 · Top 6, XENIA Hackathon 2026
 - 🎓 Leadership: Director, Renascent Mirai Foundation · President, IT Tech Club MMCOE · Webmaster, IEEE Student Branch MMCOE
 
