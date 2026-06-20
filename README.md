@@ -16,11 +16,11 @@
 
 ## 📌 About
 
-Third-year IT undergraduate focused on **applied AI/ML**, with a specific interest in **FinTech systems** — fraud detection, anomaly detection, and financial decision intelligence. Background spans full-stack engineering (MERN) to ML systems built end-to-end: feature engineering, ensemble modeling, and deployment-minded design.
+Third-year IT undergraduate focused on **applied AI/ML**, with a specific interest in **FinTech risk systems** — fraud detection, anomaly detection, and financial decision intelligence. Background spans full-stack engineering (MERN) to ML systems built end-to-end: feature engineering, ensemble modeling, and deployment-minded design.
 
 Currently:
 - 🔭 Sharpening ML fundamentals and research depth for graduate study and high-impact AI/ML research roles
-- 🧠 Exploring the intersection of engineering and finance
+- 🧠 Exploring the intersection of engineering and finance — long-term goal of building a finance-focused tech venture
 - 🏆 1st place, MIT ADT AI Grand Challenge 2026 · Top 5%, IGNISIA '26 · Top 6, XENIA Hackathon 2026
 - 🎓 Leadership: Director, Renascent Mirai Foundation · President, IT Tech Club MMCOE · Webmaster, IEEE Student Branch MMCOE
 
@@ -99,19 +99,10 @@ Built with React, TypeScript, and Tailwind — a personal site designed around c
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GgauravJ05&show_icons=true&theme=transparent&title_color=C9A24B&icon_color=C9A24B&text_color=EDE6D6&border_color=3A4A6B&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GgauravJ05&show_icons=true&theme=default&bg_color=ffffff&title_color=0B132B&icon_color=C9A24B&text_color=0B132B&border_color=e0e0e0&border_radius=10" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GgauravJ05&background=00000000&border=3A4A6B&stroke=C9A24B&ring=C9A24B&fire=C9A24B&currStreakNum=EDE6D6&sideNums=EDE6D6&currStreakLabel=C9A24B&sideLabels=EDE6D6&dates=EDE6D6&border_radius=10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GgauravJ05&background=ffffff&border=e0e0e0&stroke=0B132B&ring=C9A24B&fire=C9A24B&currStreakNum=0B132B&sideNums=0B132B&currStreakLabel=0B132B&sideLabels=0B132B&dates=0B132B&border_radius=10" width="48%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=GgauravJ05&show_icons=true&theme=default&bg_color=ffffff&title_color=0B132B&icon_color=C9A24B&text_color=222222&border_color=d0d0d0&border_radius=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GgauravJ05&background=ffffff&border=d0d0d0&stroke=0B132B&ring=C9A24B&fire=C9A24B&currStreakNum=0B132B&sideNums=222222&currStreakLabel=0B132B&sideLabels=222222&dates=666666&border_radius=10" width="48%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GgauravJ05&bg_color=00000000&color=C9A24B&line=C9A24B&point=EDE6D6&area=true&hide_border=true&hide_title=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GgauravJ05&bg_color=ffffff&color=0B132B&line=C9A24B&point=0B132B&area=true&hide_border=true&hide_title=true" width="97%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GgauravJ05&bg_color=ffffff&color=0B132B&line=C9A24B&point=0B132B&area=true&area_color=C9A24B&hide_border=true&hide_title=true" width="97%" />
 
 </div>
 
