@@ -16,7 +16,7 @@
 
 ## 📌 About
 
-Third-year IT undergraduate focused on **applied AI/ML**, with a specific interest in **FinTech risk systems** — fraud detection, anomaly detection, and financial decision intelligence. Background spans full-stack engineering (MERN) to ML systems built end-to-end: feature engineering, ensemble modeling, and deployment-minded design.
+Third-year IT undergraduate focused on **applied AI/ML**, with a specific interest in **FinTech systems** — fraud detection, anomaly detection, and financial decision intelligence. Background spans full-stack engineering (MERN) to ML systems built end-to-end: feature engineering, ensemble modeling, and deployment-minded design.
 
 Currently:
 - 🔭 Sharpening ML fundamentals and research depth for graduate study abroad and FAANG/MAANG-level AI/ML roles
