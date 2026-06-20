@@ -1,64 +1,122 @@
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" 
-       width="500" 
-       alt="animated hello" 
-       style="border-radius:8px;"/>
-</p>
-<br><br>
+<div align="center">
 
-## Hi, I'm Gaurav <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />
-  
-I’m a 2nd-year **B.Tech (Information Technology)** student focused on building **data-driven and scalable software systems**.
+# Gaurav Jadhav
 
-My primary interests lie in **Artificial Intelligence & Machine Learning**, complemented by full-stack development using the **MERN stack**.  
-I actively work on strengthening my problem-solving skills, system design fundamentals, and real-world project execution.
+**AI/ML Research-Focused Engineer** · B.Tech IT '28 · Building data-driven systems for FinTech & Risk Intelligence
 
-I value clean code, practical learning, and continuous improvement.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B132B?style=for-the-badge&logo=vercel&logoColor=C9A24B)](https://gauravporfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin&logoColor=C9A24B)](https://linkedin.com/in/ggauravj05)
+[![Medium](https://img.shields.io/badge/Medium-0B132B?style=for-the-badge&logo=medium&logoColor=C9A24B)](https://medium.com/@ggauravj5)
+[![Email](https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=gmail&logoColor=C9A24B)](mailto:ggauravj05@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-0B132B?style=for-the-badge&logo=googledocs&logoColor=C9A24B)](https://docs.google.com/document/d/1ySZ9nGfKfdUJcaot-g4F7RQdq6UbtQsrG80f_BRQPHs/edit?usp=sharing)
 
----
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Tech Stack Section ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# Tech Stack <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40"> 
-
-| Category | Skills |
-|---------|--------|
-| Frameworks | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
-| Languages | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> |
-| Data Science & ML | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> |
-| Styling & UI | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> |
-| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
-| Services & Tools | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> |
-| Competitive Coding | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> |
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> |
-| Hosting | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> |
-| Design Tools | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> |
+</div>
 
 <br>
 
----
+## 📌 About
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-## 📊 GitHub Analytics  
+Third-year IT undergraduate focused on **applied AI/ML**, with a specific interest in **FinTech risk systems** — fraud detection, anomaly detection, and financial decision intelligence. Background spans full-stack engineering (MERN) to ML systems built end-to-end: feature engineering, ensemble modeling, and deployment-minded design.
 
-| ![GgauravJ05 GitHub Stats](https://github-readme-stats.vercel.app/api?username=GgauravJ05&rank_icon=github&show_icons=true&show=reviews&bg_color=fff&title_color=0a1931&icon_color=000000&text_color=0A0209&border_color=0A0209&border_radius=8&width=400) | ![GgauravJ05 GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GgauravJ05&background=fff&border=0A0209&stroke=0A0209&ring=0a1931&fire=0a1931&currStreakNum=0A0209&sideNums=0A0209&currStreakLabel=0a1931&sideLabels=0a1931&dates=0A0209&border_radius=8&width=400) |
-| -- | -- |
+Currently:
+- 🔭 Sharpening ML fundamentals and research depth for graduate study abroad and FAANG/MAANG-level AI/ML roles
+- 🧠 Exploring the intersection of engineering and finance — long-term goal of building a finance-focused tech venture
+- 🏆 1st place, MIT ADT AI Grand Challenge 2026 · Top 5%, IGNISIA '26 · Top 6, XENIA Hackathon 2026
+- 🎓 Leadership: Director, Renascent Mirai Foundation · President, IT Tech Club MMCOE · Webmaster, IEEE Student Branch MMCOE
 
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GgauravJ05&bg_color=ffffff&color=0A0209&line=0a1931&point=0a1931&area=true&hide_border=true&hide_title=true" />
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🛡️ InsureTrust
+**Insurance fraud detection system**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</p>
+XGBoost-based classification pipeline for identifying fraudulent insurance claims, with feature engineering tailored to claim-pattern anomalies and class-imbalance handling.
+
+`Python` `XGBoost` `Scikit-learn` `Pandas`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ FlowState
+**On-device cognitive load predictor**
+
+Lightweight ML model designed to estimate real-time cognitive load from on-device signals, optimized for low-latency inference without server dependency.
+
+`Python` `ML` `On-device Inference`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 Impulse Route
+**AI-driven routing system**
+
+Intelligent routing engine that applies AI-based decision logic to optimize path/route selection over conventional heuristic approaches.
+
+`Python` `AI Routing` `Optimization`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Site
+**Personal site for grad & recruiter outreach**
+
+Built with React, TypeScript, and Tailwind — a personal site designed around clarity, performance, and a strong first impression.
+
+[**View live →**](https://gauravporfolio.vercel.app/)
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
+
+**ML / Data Science**
+<img src="https://img.shields.io/badge/Python-0B132B?style=flat-square&logo=python&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/NumPy-0B132B?style=flat-square&logo=numpy&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/Pandas-0B132B?style=flat-square&logo=pandas&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/Scikit--learn-0B132B?style=flat-square&logo=scikitlearn&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/XGBoost-0B132B?style=flat-square&logoColor=C9A24B"/>
+
+**Full-Stack Development**
+<img src="https://img.shields.io/badge/React-0B132B?style=flat-square&logo=react&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/TypeScript-0B132B?style=flat-square&logo=typescript&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/Node.js-0B132B?style=flat-square&logo=nodedotjs&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/Express.js-0B132B?style=flat-square&logo=express&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/MongoDB-0B132B?style=flat-square&logo=mongodb&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0B132B?style=flat-square&logo=tailwind-css&logoColor=C9A24B"/>
+
+**Languages**
+<img src="https://img.shields.io/badge/C%2B%2B-0B132B?style=flat-square&logo=c%2B%2B&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/C-0B132B?style=flat-square&logo=c&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/Java-0B132B?style=flat-square&logo=java&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/JavaScript-0B132B?style=flat-square&logo=javascript&logoColor=C9A24B"/>
+
+**Tools**
+<img src="https://img.shields.io/badge/Git-0B132B?style=flat-square&logo=git&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/Figma-0B132B?style=flat-square&logo=figma&logoColor=C9A24B"/> <img src="https://img.shields.io/badge/Vercel-0B132B?style=flat-square&logo=vercel&logoColor=C9A24B"/>
+
+<br>
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJGaurav26&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GgauravJ05&show_icons=true&theme=transparent&title_color=C9A24B&icon_color=C9A24B&text_color=EDE6D6&border_color=3A4A6B&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GgauravJ05&show_icons=true&theme=default&bg_color=ffffff&title_color=0B132B&icon_color=C9A24B&text_color=0B132B&border_color=e0e0e0&border_radius=10" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GgauravJ05&background=00000000&border=3A4A6B&stroke=C9A24B&ring=C9A24B&fire=C9A24B&currStreakNum=EDE6D6&sideNums=EDE6D6&currStreakLabel=C9A24B&sideLabels=EDE6D6&dates=EDE6D6&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GgauravJ05&background=ffffff&border=e0e0e0&stroke=0B132B&ring=C9A24B&fire=C9A24B&currStreakNum=0B132B&sideNums=0B132B&currStreakLabel=0B132B&sideLabels=0B132B&dates=0B132B&border_radius=10" width="48%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GgauravJ05&bg_color=00000000&color=C9A24B&line=C9A24B&point=EDE6D6&area=true&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GgauravJ05&bg_color=ffffff&color=0B132B&line=C9A24B&point=0B132B&area=true&hide_border=true&hide_title=true" width="97%" />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Open to AI/ML research roles, FinTech opportunities, and grad school connections — reach out via <a href="mailto:ggauravj05@gmail.com">email</a> or <a href="https://linkedin.com/in/ggauravj05">LinkedIn</a>.</sub>
 </div>
