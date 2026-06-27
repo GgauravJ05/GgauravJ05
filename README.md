@@ -20,7 +20,7 @@ Third-year IT undergraduate focused on **applied AI/ML**, with a specific intere
 
 Currently:
 - 🔭 Sharpening ML fundamentals and research depth for graduate study and high-impact AI/ML research roles
-- 🧠 Exploring the intersection of engineering and finance — long-term goal of building a finance-focused tech venture
+- 🧠 Exploring the intersection of engineering and finance 
 - 🏆 1st place, MIT ADT AI Grand Challenge 2026 · Top 5%, IGNISIA '26 · Top 6, XENIA Hackathon 2026
 - 🎓 Leadership: Director, Renascent Mirai Foundation · President, IT Tech Club MMCOE · Webmaster, IEEE Student Branch MMCOE
 
