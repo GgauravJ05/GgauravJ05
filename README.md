@@ -56,7 +56,14 @@ Write-ups for all of these: [gauravjadhav.vercel.app/work](https://gauravjadhav.
 
 Reliable ML under resource and safety constraints — on-device inference, honest evaluation against baselines, and human-in-the-loop decisions — and the systems behaviour underneath it, measured from first principles. Notes on the [research page](https://gauravjadhav.vercel.app/research).
 
-**Stack** — Python · PyTorch / Transformers · XGBoost · scikit-learn · C++ · FastAPI · React · TypeScript
+## Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,cpp,fastapi,react,ts,nodejs,docker,git&theme=dark&perline=10">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,cpp,fastapi,react,ts,nodejs,docker,git&theme=light&perline=10" alt="Python, PyTorch, scikit-learn, C++, FastAPI, React, TypeScript, Node.js, Docker, Git">
+</picture>
+
+<sub>Also: Hugging Face Transformers · XGBoost · SHAP · NetworkX · WebRTC</sub>
 
 <br>
 
