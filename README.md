@@ -7,10 +7,10 @@
 
 **Open to** ML & systems internships and new-grad roles, and research collaborations ahead of MS applications.
 
-[![Email](https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=gmail&logoColor=C9A24B)](mailto:ggauravj05@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-0B132B?style=for-the-badge&logo=googledocs&logoColor=C9A24B)](https://gauravjadhav.vercel.app/resume)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin&logoColor=C9A24B)](https://www.linkedin.com/in/ggauravj05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B132B?style=for-the-badge&logo=vercel&logoColor=C9A24B)](https://gauravjadhav.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggauravj05@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white)](https://gauravjadhav.vercel.app/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggauravj05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://gauravjadhav.vercel.app/)
 
 <br>
 
