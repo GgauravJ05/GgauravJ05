@@ -60,7 +60,7 @@ Reliable ML under resource and safety constraints — on-device inference, hones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Csklearn%2Ccpp%2Cfastapi%2Creact%2Cts%2Cnodejs%2Cdocker%2Cgit&theme=dark&perline=10">
-  <img src="https://skillicons.dev/icons?i=python%2Cpytorch%2Csklearn%2Ccpp%2Cfastapi%2Creact%2Cts%2Cnodejs%2Cdocker%2Cgit&theme=light&perline=10" alt="Python%2C PyTorch%2C scikit-learn%2C C++%2C FastAPI%2C React%2C TypeScript%2C Node.js%2C Docker%2C Git">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,cpp,fastapi,react,ts,nodejs,docker,git&theme=light&perline=10" alt="Python, PyTorch, scikit-learn, C++, FastAPI, React, TypeScript, Node.js, Docker, Git">
 </picture>
 
 <sub>Also: Hugging Face Transformers · XGBoost · SHAP · NetworkX · WebRTC</sub>
